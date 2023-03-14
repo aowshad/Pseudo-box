@@ -1,0 +1,20 @@
+h1{
+    background-color: rgb(195, 0, 255);
+    width: 20%;
+    margin: 40px;
+    
+}
+
+span{
+    background-color: rgb(0, 81, 255);
+}
+div{
+    background-color: blueviolet;
+    color: white;
+    width: 10%;
+    padding: 20px;
+}
+a{
+    display: block;
+    margin: 5%;
+}
