@@ -34,3 +34,24 @@ a{
 a:visited{
     color: red;
 }
+
+
+li:last-child{
+    color: red;
+    
+}
+li:nth-child(2n+1){
+    color: blueviolet;
+    background-color: aliceblue;
+}
+ul{
+    font-size: 30px;
+}
+h3::before{
+    content: 'Hello ';
+    color: red;
+}
+h3::after{
+    content: ' Bangladesh';
+    color: green;
+}
